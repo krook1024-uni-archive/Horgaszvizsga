@@ -19,3 +19,7 @@ tartalmazzák.
 - [Tilalmi időszakok, méretkorlátozások, stb](https://github.com/krook1024/Horgaszvizsga/raw/master/Horgasz.pdf)
 
 - [Teljes, NÉBIH által kiadott dokumentum](https://github.com/krook1024/Horgaszvizsga/raw/master/teljes.pdf)
+
+Sok sikert és jó horgászást!
+
+🐟 🐠 🐡 🎣
