@@ -1,0 +1,133 @@
+---
+output:
+    pdf_document:
+        fig_caption: yes
+---
+
+![Amur](img/amur.jpg)
+
+![Amurgéb](img/amurgeb.jpg)
+
+\clearpage
+
+![Angolna](img/angolna.jpg)
+
+![Bagolykeszeg](img/bagolykeszeg.jpg)
+
+\clearpage
+
+![Balin](img/balin.jpg)
+
+![Bodorka](img/bodorka.jpg)
+
+\clearpage
+
+![Busa](img/busa.jpg)
+
+![Cifra kölönte](img/cifra-kolonte.jpg)
+
+\clearpage
+
+![Compó](img/compo.jpg)
+
+![Csik](img/csik.jpg)
+
+\clearpage
+
+![Csuka](img/csuka.jpg)
+
+![Dévérkszeg](img/deverkeszeg.jpg)
+
+\clearpage
+
+![Domolykó](img/domolyko.jpg)
+
+![Ezüstkárász](img/ezustkarasz.jpg)
+
+\clearpage
+
+![Felpillantó küllő](img/felpillanto-kullo.jpg)
+
+![Fogassüllő](img/fogassullo.jpg)
+
+\clearpage
+
+![Fürge cselle](img/furge-cselle.jpg)
+
+![Garda](img/garda.jpg)
+
+![Csupasztorkú géb](img/geb-csupasztorku.jpg)
+
+![Folyami géb](img/geb-folyami.jpg)
+
+![Kessler-géb](img/geb-kessler.jpg)
+
+![Halványfoltú küllő](img/halvanyfoltu-kullo.jpg)
+
+![Harcsa](img/harcsa.jpg)
+
+![Homoki küllő](img/homoki-kullo.jpg)
+
+![Ingola](img/ingola.jpg)
+
+![Jászkeszeg](img/jaszkeszeg.jpg)
+
+![Karikakeszeg](img/karikakeszeg.jpg)
+
+![Kecsege](img/kecsege.jpg)
+
+![Kősüllő](img/kosullo.jpg)
+
+![Küllő](img/kullo1.jpg)
+
+![Kurta baing](img/kurta-baing.jpg)
+
+![Lápi póc](img/lapi-poc.jpg)
+
+![Laposkeszeg](img/laposkeszeg.jpg)
+
+![Leányköncér](img/leanykoncer.jpg)
+
+![Márna](img/marna.jpg)
+
+![Menyhal](img/menyhal.jpg)
+
+![Naphal](img/naphal.jpg)
+
+![Nyúldomolykó](img/nyuldomolyko.jpg)
+
+![Paduc](img/paduc.jpg)
+
+![Petényi márna](img/petenyi-marna.jpg)
+
+![Pisztrángsugár](img/pisztrangsuger.jpg)
+
+![Ponty](img/ponty.jpg)
+
+![Razbora](img/razbora.jpg)
+
+![Sebes pisztráng](img/sebes-pisztrang.jpg)
+
+![Sügér](img/suger.jpg)
+
+![Sujtásos küsz](img/sujtasos-kusz.jpg)
+
+![Széles kárász](img/szeles-karasz.jpg)
+
+![Szélhajtú küsz](img/szelhajto-kusz.jpg)
+
+![Szilvaorrú keszeg](img/szilvaorru-keszeg.jpg)
+
+![Szivárványos ökle](img/szivarvanyos-okle.jpg)
+
+![Szivárványos pisztráng](img/szivarvanyos-pisztrang.jpg)
+
+![Törpeharcsa](img/torpeharcsa.jpg)
+
+![Vágódurbincs](img/vagodurbincs.jpg)
+
+![Vágótok](img/vagotok.jpg)
+
+![Vörösszárnyú keszeg](img/vorosszarnyu-keszeg.jpg)
+
+

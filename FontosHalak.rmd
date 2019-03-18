@@ -1,0 +1,45 @@
+---
+output:
+    pdf_document:
+        fig_caption: yes
+---
+
+![Csuka](img/csuka.jpg)
+
+![Balin](img/balin.jpg)
+
+![Sügér](img/suger.jpg)
+
+![Fogassüllő](img/fogassullo.jpg)
+
+![Kősüllő](img/kosullo.jpg)
+
+![Garda](img/garda.jpg)
+
+![Domolykó](img/domolyko.jpg)
+
+![Dévérkeszeg](img/deverkeszeg.jpg)
+
+![Jászkeszeg](img/jaszkeszeg.jpg)
+
+![Bagolykeszeg](img/bagolykeszeg.jpg)
+
+![Karikakeszeg](img/karikakeszeg.jpg)
+
+![Laposkeszeg](img/laposkeszeg.jpg)
+
+![Szilvaorrú keszeg](img/szilvaorru-keszeg.jpg)
+
+![Vörösszárnyú keszeg](img/vorosszarnyu-keszeg.jpg)
+
+![Paduc](img/paduc.jpg)
+
+![Márna](img/marna.jpg)
+
+![Petényi márna](img/petenyi-marna.jpg)
+
+![Ponty](img/ponty.jpg)
+
+![Harcsa](img/harcsa.jpg)
+
+![Sebes pisztráng](img/sebes-pisztrang.jpg)
