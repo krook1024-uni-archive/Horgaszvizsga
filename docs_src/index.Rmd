@@ -1,5 +1,5 @@
 ---
-title: "Horgászvizsga"
+title: "🎣 Horgászvizsga"
 ---
 
 Ez a leírás igyekszik némi segítséget nyújtani
@@ -9,7 +9,7 @@ előtt állnak.
 A vizsga általában feleletválasztós kérdésekből és halfajták
 képről való felismeréséből áll.
 
-## Tartalom
+## 📖 Tartalom
 
 Három rövid és egyszerűen átlátható PDF a horgászvizsga tananyagából.
 Továbbá egy hivatalos PDF a NÉBIH-től, ezt érdemes egyszer áttanulmányozni,
@@ -23,7 +23,7 @@ tartalmazzák.
 
 Sok sikert és jó horgászatot!
 
-## Weboldal
+## 🌍 Weboldal
 
 A letölthető PDF állományokon kívül természetesen weboldal formájában
 is elérhető az összes információ. A fenti menüvel lépkedhetünk
