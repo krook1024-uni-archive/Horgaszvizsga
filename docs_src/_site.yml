@@ -1,0 +1,14 @@
+name: "Horgászvizsga"
+navbar:
+  title: "Horgászvizsga"
+  left:
+    - text: "Főoldal"
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+output_dir: "../docs"
+exclude: ["Makefile"]
