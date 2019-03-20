@@ -7,7 +7,7 @@ előtt állnak.
 A vizsga általában feleletválasztós kérdésekből és halfajták
 képről való felismeréséből áll.
 
-## Tartalom
+## 📖 Tartalom
 
 Három rövid és egyszerűen átlátható PDF a horgászvizsga tananyagából.
 Továbbá egy hivatalos PDF a NÉBIH-től, ezt érdemes egyszer áttanulmányozni,
@@ -21,4 +21,13 @@ tartalmazzák.
 
 Sok sikert és jó horgászatot!
 
-### 🐟 🐠 🐡 🎣
+## 🌍 Weboldal
+
+A letölthető PDF állományokon kívül természetesen weboldal formájában
+is elérhető az összes információ. A fenti menüvel lépkedhetünk
+az oldalak között.
+
+A weboldal a következő linken érhető el:  
+[https://krook1024.github.io/Horgaszvizsga](https://krook1024.github.io/Horgaszvizsga)
+
+# 🐟 🐠 🐡 🎣
