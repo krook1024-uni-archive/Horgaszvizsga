@@ -12,7 +12,7 @@ navbar:
       href: tudnivalok.html
 output:
   html_document:
-    theme: cosmo
+    theme: united
     highlight: textmate
     include:
       after_body: footer.html
