@@ -1,0 +1,50 @@
+---
+title: "Tudnivalók"
+---
+
+## Tilalmi idők
+
+- **02.01 - 03.31:** csuka
+- **03.01 - 04.30:** balin, sügér, fogassüllő
+- **03.01 - 06.30:** kősüllő
+- **04.15 - 05.31:** garda, domolykó, \*keszeg, paduc, márna
+- **05.02 - 05.31:** ponty
+- **05.02. - 06.15:** csompó, harcsa
+- **10.01 - 03.31:** sebes pisztráng
+
+## Méretkorlátozás
+
+- **>40cm:** csuka, balin, márna
+- **>30cm:** fogassüllő, ponty
+- **>25cm:** kősüllő, domolykó, compó, menyhal
+- **>22cm:** sebes pisztráng
+- **>20cm:** garda, szilvaorrú keszeg, jászkeszeg, paduc
+
+## Darabszám
+
+- **3 db:** csuka, balin, {fogas, kő}süllő, márna, ponty, compó, harcsa, sebespisztráng (fogyi csak 1db)
+- **3 kg:** menyhal
+- **minden más:** 10kg / fogyiknak 5kg
+
+## Tilalmak
+
+- korlátozott fajonként 3, max 5 halat lehet kifogni
+
+### Természetvédelmi oltalom alatt álló halfajok
+
+- őshonos tokfajok
+- leánykoncér, nyúldomolykó, Petényi-márna, lápi póc
+fürge cselle, kurta baing, sujtásos küsz, szivárványos ökle,
+küllők, csíkok
+- kölönték, {selymes, széles}durbincs, bucók
+
+### Nem fogható
+
+- kecsege, széles kárász, vágódurbincs
+
+## Fogalmak
+- **fogási méret:** orrcsúcstól farokúszó tövéig
+- **horgászkészség:** horgászati célú, halfogásra alkalmas eszköz
+- **holtág:** folyó azon mederrésze amit a folyó elhagyott
+
+

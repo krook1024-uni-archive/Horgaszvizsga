@@ -4,6 +4,12 @@ navbar:
   left:
     - text: "Főoldal"
       href: index.html
+    - text: "Fontosabb halak"
+      href: fontosHalak.html
+    - text: "Összes hal"
+      href: osszesHal.html
+    - text: "Tudnivalók"
+      href: tudnivalok.html
 output:
   html_document:
     theme: cosmo
